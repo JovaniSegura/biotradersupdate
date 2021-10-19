@@ -1,0 +1,97 @@
+<!DOCTYPE html>
+<html lang="en" >
+<head>
+  <meta charset="UTF-8">
+  <title>Jeef Bezos</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1"><link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/meyer-reset/2.0/reset.min.css">
+<link rel="stylesheet" href="JeefBezos.css">
+
+</head>
+<body>
+<!-- partial:index.partial.html -->
+<div id="header">
+  <div class="logo">
+    <a href="#">BIOTRADERS</a>
+  </div>  
+  <nav>
+    <form class="search" action="search.php"> 
+      <input name="q" placeholder="Search..." type="search">
+    </form>
+    <ul>
+      <li>
+        <a href="">HOME</a>
+      </li>
+      <li>
+        <a href="">ABOUT</a>
+        <ul class="mega-dropdown">
+          <li class="row">
+            <ul class="mega-col">
+              <li><a href="#">About</a></li>
+              <li><a href="#">Contact</a></li>
+            </ul>
+            <ul class="mega-col">
+              <li><a href="#">Help</a></li>
+              <li><a href="#">Pricing</a></li>
+              <li><a href="#">Team</a></li>
+              <li><a href="#">Services</a></li>
+            </ul>
+            <ul class="mega-col">
+              <li><a href="#">Coming Soon</a></li>
+              <li><a href="#">404 Error</a></li>
+              <li><a href="#">Search</a></li>
+              <li><a href="#">Author Page</a></li>
+            </ul>
+            <ul class="mega-col">
+              <li><a href="#">Full Width</a></li>
+              <li><a href="#">Right Column</a></li>
+              <li><a href="#">Left Column</a></li>
+              <li><a href="#">Maintenance</a></li>
+            </ul>
+          </li>
+        </ul>        
+      </li>
+      <li class="dropdown">
+        <a href="">CONTACT</a>
+          <ul>
+            <li><a href="#">About Version</a></li>
+            <li><a href="#">Contact Us</a></li>
+          </ul>        
+      </li>
+      <li>
+        <a href="">PORTA</a>
+      </li>
+      <li>
+        <a href="">TEAM</a>
+      </li>
+    </ul>
+  </nav>
+</div>
+<br>
+<article class="flow">
+  <h1>JEFF BEZOS</h1><br>
+  <P>El empresario estadounidense Jeff Bezos desempeñó un papel clave en el crecimiento del comercio electrónico como fundador y director ejecutivo de Amazon.com. Inc.,. Bajo su guía, Amazon se convirtió en el minorista más grande de la World Wide Web y en el modelo para ventas por Internet.
+
+Jeffrey Preston Bezos nació el 12 de enero de 1964 en Albuquerque, Nuevo México, EE. UU. Mientras todavía estaba en la escuela secundaria, Bezos desarrolló el Dream Institute, un centro que promovía el pensamiento creativo en los jóvenes estudiantes. Después de graduarse summa cum laude (1986) de la Universidad de Princeton con títulos en ingeniería eléctrica y ciencias de la computación, realizó una serie de trabajos antes de unirse al banco de inversiones de Nueva York D.E. Shaw & Co. en 1990, donde pronto fue nombrado vicepresidente senior. Siendo el más joven de la firma, estuvo a cargo de examinar las posibilidades de inversión de Internet. Su enorme potencial (el uso de la web estaba creciendo en más de un 2.000 % al año) despertó su imaginación empresarial. En 1994 renunció a D.E. Shaw y se mudó a Seattle, Washington, para abrir una librería virtual. Trabajando en su garaje con un puñado de empleados, Bezos comenzó a desarrollar un software para el sitio. Llamado así por el río sudamericano, Amazon vendió su primer libro en julio de 1995.
+
+Amazon se convirtió rápidamente en el líder del comercio electrónico. Abierto las 24 horas del día, el sitio era fácil de usar, alentando a los navegadores a publicar sus propias reseñas de libros y ofreciendo descuentos, recomendaciones personalizadas y búsquedas de libros fuera de impresión. En junio de 1998 comenzó a vender CDs, y ese mismo año incorporó videos. En 1999, agregó subastas al sitio e invirtió en otras tiendas virtuales. El éxito de Amazon alentó a otros minoristas, incluidas las principales cadenas de libros, a establecer tiendas en línea.
+
+A medida que más compañías luchaban por los dólares de Internet, Bezos vio la necesidad de diversificarse, y para el 2005, Amazon ofreció una amplia gama de productos, incluyendo electrónica de consumo, indumentaria y hardware. Amazon se diversificó aún más en 2006 al introducir Amazon Web Services (AWS), un servicio de computación en la nube que eventualmente se convirtió en el servicio de este tipo más grande del mundo. A fines de 2007, Amazon lanzó un nuevo dispositivo de lectura portátil llamado Kindle, un lector digital de libros con conectividad inalámbrica a Internet, que permitía a los clientes comprar, descargar, leer y almacenar una amplia selección de libros a pedido. Amazon anunció en 2010 que las ventas de libros Kindle habían superado a las de libros de tapa dura. Ese mismo año, Amazon comenzó a hacer sus propios programas de televisión y películas con su división de Estudios de Amazon. Las ventas netas anuales de Amazon aumentaron de 510.000 dólares en 1995 a unos 600 millones en 1998 y de más de 19.1 billones en 2008 a casi 136 billones en 2016.
+
+Además de Amazon, Bezos también fundó una compañía de vuelos espaciales, Blue Origin, en 2000. Blue Origin compró un sitio de lanzamiento en Texas poco después y planeaba introducir una nave suborbital tripulada, New Shepard, en 2018 y un vehículo de lanzamiento orbital, New Glenn, en 2020. Bezos compró The Washington Post y publicaciones afiliadas por 250 millones de dólares en 2013. El patrimonio neto de Bezos se calculó en 2017 en 72.8 billones, lo que lo convierte en la tercera persona más rica del mundo después del cofundador de Microsoft, Bill Gates, y del inversionista estadounidense, Warren Buffett.</P>
+
+<br>  
+<a href="index.html" style="text-decoration:none"><div id="button_3a151bc">
+  <div class="vcenterstyle1"><div class="vcenterstyle2">    <div class="textstyle1">
+      <span class="textstyle2">Volver</span>
+      </div>
+    <div class="textstyle3">
+      </div>
+    </div></div>
+  </div></a>
+  
+</article>
+<!-- partial -->
+  <script src='https://cdnjs.cloudflare.com/ajax/libs/jquery/2.1.3/jquery.min.js'></script><script  src="./script.js"></script>
+
+</body>
+</html>
